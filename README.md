@@ -13,7 +13,6 @@ This project aims to predict students' performance in exams based on various fea
 - **Pandas**: For data manipulation and analysis.
 - **Matplotlib & Seaborn**: For data visualization.
 - **Plotly**: For interactive charts and visualizations.
-- **TensorFlow/Keras**: For advanced model building (if applicable).
 
 ## Installation
 
