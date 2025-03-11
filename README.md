@@ -1,15 +1,11 @@
-```markdown
 # Student Performance Prediction
-This project predicts student performance in exams using machine learning. It analyzes historical data to identify patterns and provides insights to improve educational strategies. The application is built with Streamlit, allowing users to interact with the model, visualize data, and make predictions through a user-friendly interface.
-
-
 
 This project aims to predict students' performance in exams based on various features such as study time, past grades, and other academic-related factors. The prediction model uses machine learning algorithms to assess the data and predict student performance with high accuracy.
 
 ## Features
-- Data Preprocessing: Cleans and processes the dataset for machine learning models.
-- Model Building: Builds machine learning models to predict student performance.
-- Streamlit Web App: A simple interactive web interface built with Streamlit to visualize and predict students' exam performance.
+- **Data Preprocessing**: Cleans and processes the dataset for machine learning models.
+- **Model Building**: Builds machine learning models to predict student performance.
+- **Streamlit Web App**: A simple interactive web interface built with Streamlit to visualize and predict students' exam performance.
 
 ## Tools & Libraries
 - **Streamlit**: For creating an interactive web application.
@@ -22,10 +18,9 @@ This project aims to predict students' performance in exams based on various fea
 ## Installation
 
 1. Clone this repository:
-
    ```bash
-   git clone https://github.com/Duvvuridurgaprasad28/Student-performance-Prediction.git
-   ```
+   git clone https://github.com/your-username/student-performance-prediction.git
+
 
 2. Navigate to the project directory:
 
