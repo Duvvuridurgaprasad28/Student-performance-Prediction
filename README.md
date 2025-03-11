@@ -54,13 +54,14 @@ Once the Streamlit app is running, you can:
 ## Dataset
 
 The dataset used in this project contains various factors that affect student performance, including:
-- Study hours
-- Previous grades
-- Parental education
-- Internet access
-- Other academic-related factors
 
-(If you have a dataset file, include it here or a link to where it can be accessed.)
+- Name: The student's name.
+- Gender: Gender of the student.
+- AttendanceRate: The student's attendance percentage.
+- StudyHoursPerWeek: The number of hours the student studies each week.
+- PreviousGrade: The student's previous exam grade.
+- ExtracurricularActivities: Participation in extracurricular activities.
+- ParentalSupport: The level of parental support.
 
 ## License
 
@@ -71,7 +72,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thank you to the creators of the libraries used in this project: Streamlit, scikit-learn, pandas, matplotlib, seaborn, plotly, and others.
 - The dataset used in this project is publicly available.
 
-```
+
 
 ### Explanation:
 - **Project Title**: The title at the top describes the project.
