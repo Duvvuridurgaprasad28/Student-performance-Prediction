@@ -19,7 +19,7 @@ This project aims to predict students' performance in exams based on various fea
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/student-performance-prediction.git
+   git clone https://github.com/Duvvuridurgaprasad28/student-performance-prediction.git
 
 
 2. Navigate to the project directory:
