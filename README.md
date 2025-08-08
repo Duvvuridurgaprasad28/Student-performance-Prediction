@@ -34,7 +34,7 @@ The Power BI dashboard complements the Streamlit app by providing deep insights 
 - **Gender-based filtering**
 - **Parental support level impact**
 - **Study hours vs. grades correlation**
-- **Attendance & extracurricular activity effect
+- **Attendance & extracurricular activity effect**
   > Power BI Dashboard Screenshot Below
   ![PowerBI](assets\powerbi.png)
 --- 
